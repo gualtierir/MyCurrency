@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCurrency</string>
+    <string name="mycurrency">MyCurrency</string>
+    <string name="convert_from">Converti da</string>
+    <string name="convert_to">Converti in</string>
+    <string name="select_currency">Seleziona Valuta</string>
+    <string name="amount_to_convert">Valore da convertire</string>
+    <string name="result">Risultato</string>
+    <string name="default_value">1</string>
+    <string name="convert">Converti</string>
+    <string name="exit_button">Chiudi</string>
+    <string name="save_as_favorite">Salva preferito</string>
+    <string name="set_favorite">Imposta preferito</string>
+</resources>

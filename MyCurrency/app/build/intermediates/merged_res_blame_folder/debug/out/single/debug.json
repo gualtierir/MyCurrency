@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-hdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-hdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-xhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-xhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-mdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-mdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/xml_backup_descriptor.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/xml/backup_descriptor.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable_rupee.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/drawable/rupee.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-anydpi-v21_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-anydpi-v21/ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/layout_from_spinner.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/layout/from_spinner.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable_blackback.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/drawable/blackback.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-xxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-xxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-xxxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-xxxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/font_blinker_semibold.ttf.flat",
+        "source": "com.example.mycurrency.app-main-6:/font/blinker_semibold.ttf"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable-ldpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.example.mycurrency.app-pngs-0:/drawable-ldpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/layout_to_spinner.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/layout/to_spinner.xml"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/font_advent_pro_medium.ttf.flat",
+        "source": "com.example.mycurrency.app-main-6:/font/advent_pro_medium.ttf"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/drawable_backblue.png.flat",
+        "source": "com.example.mycurrency.app-main-6:/drawable/backblue.png"
+    },
+    {
+        "merged": "com.example.mycurrency.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mycurrency.app-main-6:/xml/data_extraction_rules.xml"
+    }
+]
